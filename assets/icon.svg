@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder temporal. Reemplaza assets/icon.png con el PNG que subas. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#6C4DFF"/>
+  <path d="M300 320h480L370 760h410v-90H520l410-440H300z" fill="#F2F2F2"/>
+</svg>

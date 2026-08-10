@@ -1,0 +1,35 @@
+{
+  "name": "Zorn",
+  "identifier": "com.zorn.source",
+  "subtitle": "Apps personales de Zorn.",
+  "description": "Fuente de Zorn para AltStore y SideStore. Aquí publico mis apps iOS personales para instalarlas por sideload.",
+  "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/assets/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/assets/icon.png",
+  "website": "https://zorn.app",
+  "tintColor": "6C4DFF",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Placeholder",
+      "bundleIdentifier": "com.zorn.placeholder",
+      "developerName": "Zorn",
+      "subtitle": "App de ejemplo — reemplázala.",
+      "localizedDescription": "Entrada de ejemplo. Copia este bloque en sources.json por cada app, ajusta name/bundleIdentifier/repo/tagPrefix y borra este placeholder.",
+      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/apps/placeholder/icon.png",
+      "tintColor": "6C4DFF",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-08-10",
+          "localizedDescription": "Aún sin release publicado. Publica un GitHub Release en sebastianov92/Placeholder con el .ipa y tag placeholder-x.y.z.",
+          "downloadURL": "https://github.com/sebastianov92/Placeholder/releases",
+          "size": 0,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
