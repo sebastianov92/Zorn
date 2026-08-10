@@ -50,6 +50,7 @@ async function buildApp(app) {
     if (Array.isArray(releases)) {
       versions = releases
         .filter((r) => !r.draft && !r.prerelease)
+        .filter((r) => !app.tagPrefix || (r.tag_name || "").startsWith(app.tagPrefix))
         .map((r) => toVersion(r, app))
         .filter(Boolean)
         .sort((a, b) => (a._sort < b._sort ? 1 : a._sort > b._sort ? -1 : 0));

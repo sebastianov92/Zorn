@@ -7,27 +7,29 @@
   "headerURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/assets/icon.png",
   "website": "https://zorn.app",
   "tintColor": "8A139A",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.deziklabs.stardewplus"
+  ],
   "apps": [
     {
-      "name": "Placeholder",
-      "bundleIdentifier": "com.zorn.placeholder",
+      "name": "Stardew Plus",
+      "bundleIdentifier": "com.deziklabs.stardewplus",
       "developerName": "Zorn",
-      "subtitle": "App de ejemplo — reemplázala.",
-      "localizedDescription": "Entrada de ejemplo. Copia este bloque en sources.json por cada app, ajusta name/bundleIdentifier/repo/tagPrefix y borra este placeholder.",
-      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/apps/placeholder/icon.png",
-      "tintColor": "8A139A",
-      "category": "utilities",
-      "minOSVersion": "16.0",
+      "subtitle": "Spawnea items y edita tu save en Stardew Valley 1.6.",
+      "localizedDescription": "Genera códigos de chat cheats para spawnear cualquier item de Stardew Valley 1.6 (calidad y cantidad), edita tu partida (dinero, activar chat cheats, skills) y completa colecciones —Museo, Community Center, Peces y Recetas— leyendo directamente de tu save lo que te falta. Packs rápidos, favoritos y listas propias con pegado paso a paso.",
+      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/apps/stardewplus/icon.png",
+      "tintColor": "D98C2E",
+      "category": "games",
+      "minOSVersion": "17.0",
       "screenshotURLs": [],
-      "repo": "sebastianov92/Placeholder",
-      "tagPrefix": "placeholder-",
+      "repo": "sebastianov92/Zorn",
+      "tagPrefix": "stardewplus-",
       "assetPattern": "\\.ipa$",
       "fallbackVersion": {
         "version": "1.0.0",
         "date": "2026-08-10",
-        "localizedDescription": "Aún sin release publicado. Publica un GitHub Release en sebastianov92/Placeholder con el .ipa y tag placeholder-x.y.z.",
-        "downloadURL": "https://github.com/sebastianov92/Placeholder/releases",
+        "localizedDescription": "Publicando el primer release.",
+        "downloadURL": "https://github.com/sebastianov92/Zorn/releases",
         "size": 0
       }
     }
