@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.6",
+          "date": "2026-08-10",
+          "localizedDescription": "Nuevo: añadir objetos al inventario desde el editor (crops, minerales, recursos, comida) con cantidad y calidad, usando espacios vacíos. Anillos/armas: por spawn + equipar en el juego. Respalda tu save antes.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.6/StardewPlus.ipa",
+          "size": 2878971,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.5",
           "date": "2026-08-10",
           "localizedDescription": "Nuevo: Construcciones — da los materiales (spawn) y el oro para mejorar casa/edificios con Robin, sin corromper el save.",
