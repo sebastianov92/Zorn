@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.1",
+          "date": "2026-08-10",
+          "localizedDescription": "Editor con sprites: recetas muestran el sprite del item, Relaciones muestra retratos de los NPC.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.1/StardewPlus.ipa",
+          "size": 2409220,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.0",
           "date": "2026-08-10",
           "localizedDescription": "Editor de save multi-tab como el editor web: Inventario, Personaje/Skills, Stats, Apariencia, Relaciones, Crafteo, Cocina, Bundles, Farmhands.",
