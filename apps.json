@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.3",
+          "date": "2026-08-10",
+          "localizedDescription": "Inventario: sprites de todos los items (herramientas/armas/muebles), edita cantidad y calidad de tus items, huecos en su posición real y rellenables. Sin corromper (parser de items anidados).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.3/StardewPlus.ipa",
+          "size": 2423329,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.2",
           "date": "2026-08-10",
           "localizedDescription": "Inventario muestra tus items reales y los espacios de tu mochila. Relaciones con corazones (café/rojo). Community bundles colapsables.",
