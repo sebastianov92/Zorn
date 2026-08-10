@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.1",
+          "date": "2026-08-10",
+          "localizedDescription": "Editor de save completo: profesiones, amistades (corazones), nivel de casa/mina, aprender todas las recetas. Sin firmar.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.1/StardewPlus.ipa",
+          "size": 2814997,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-08-10",
           "localizedDescription": "Primera versión. Solo chat cheats, editor de save, colecciones ligadas al save, packs y listas propias. Sin firmar (SideStore firma en el device).",
