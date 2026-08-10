@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.3",
+          "date": "2026-08-10",
+          "localizedDescription": "Confirmación 'cierra Stardew' antes de guardar (iOS no puede cerrarlo por ti) + notas de backups y estructura de carpeta del save.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.3/StardewPlus.ipa",
+          "size": 2828271,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.2",
           "date": "2026-08-10",
           "localizedDescription": "Arreglos: profesiones válidas (1 nivel-5 + 1 nivel-10 por skill, anti-crash), aviso de nivel de casa, y edición del save in-place (lee el original fresco y lo reemplaza al guardar, sin exportar).",
