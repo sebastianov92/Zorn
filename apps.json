@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.5",
+          "date": "2026-08-10",
+          "localizedDescription": "Nuevo: Construcciones — da los materiales (spawn) y el oro para mejorar casa/edificios con Robin, sin corromper el save.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.5/StardewPlus.ipa",
+          "size": 2838096,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.4",
           "date": "2026-08-10",
           "localizedDescription": "Fix importante: 'aprender recetas' ahora usa los nombres correctos (antes corrompía el save). Recuperación: renombra los archivos _old de tu carpeta de Stardew.",
