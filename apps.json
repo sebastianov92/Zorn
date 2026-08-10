@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.8",
+          "date": "2026-08-10",
+          "localizedDescription": "Rediseño: estética Stardew (paneles de madera, fondo cielo, fuente pixel, inventario tipo grid) en toda la app.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.8/StardewPlus.ipa",
+          "size": 2243973,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.7",
           "date": "2026-08-10",
           "localizedDescription": "Icono nuevo: gallina adaptativa (ámbar en claro, azul en oscuro) desde tus diseños.",
