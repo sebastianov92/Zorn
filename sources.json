@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/assets/icon.png",
   "headerURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/assets/icon.png",
   "website": "https://zorn.app",
-  "tintColor": "6C4DFF",
+  "tintColor": "8A139A",
   "featuredApps": [],
   "apps": [
     {
@@ -16,7 +16,7 @@
       "subtitle": "App de ejemplo — reemplázala.",
       "localizedDescription": "Entrada de ejemplo. Copia este bloque en sources.json por cada app, ajusta name/bundleIdentifier/repo/tagPrefix y borra este placeholder.",
       "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/apps/placeholder/icon.png",
-      "tintColor": "6C4DFF",
+      "tintColor": "8A139A",
       "category": "utilities",
       "minOSVersion": "16.0",
       "screenshotURLs": [],
