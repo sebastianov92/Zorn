@@ -27,7 +27,7 @@
           "date": "2026-08-10",
           "localizedDescription": "Primera versión. Solo chat cheats, editor de save, colecciones ligadas al save, packs y listas propias. Sin firmar (SideStore firma en el device).",
           "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.0/StardewPlus.ipa",
-          "size": 2793200,
+          "size": 2793202,
           "minOSVersion": "17.0"
         }
       ]
