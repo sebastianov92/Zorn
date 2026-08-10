@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.9",
+          "date": "2026-08-10",
+          "localizedDescription": "Importar saves desde la carpeta de la app en Archivos (En mi iPhone → Stardew Plus). Corazones con icono, no emoji.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.9/StardewPlus.ipa",
+          "size": 2260407,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.8",
           "date": "2026-08-10",
           "localizedDescription": "Rediseño: estética Stardew (paneles de madera, fondo cielo, fuente pixel, inventario tipo grid) en toda la app.",
