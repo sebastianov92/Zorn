@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.6",
+          "date": "2026-08-11",
+          "localizedDescription": "La fila entera es tocable (no solo el icono/texto) en el editor de item, biblioteca y pickers.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.6/StardewPlus.ipa",
+          "size": 2459522,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.5",
           "date": "2026-08-11",
           "localizedDescription": "Editar item: toca el item para cambiarlo por otro; herramientas con selector de material (Cobre/Acero/Oro/Iridio).",
