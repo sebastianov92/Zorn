@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.13",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll ahora dibuja tu ropa REAL equipada: lee shirtItem/pantsItem del save (ej. Work Shirt + Farmer Pants) y los tiñe según el save. Antes mostraba ropa genérica.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.13/StardewPlus.ipa",
+          "size": 3579457,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.12",
           "date": "2026-08-11",
           "localizedDescription": "Apariencia: personaje vivo (paper-doll) que se dibuja y actualiza en tiempo real al cambiar piel, pelo, color de pelo/ojos, género y accesorio. Se quitó el control de nivel de casa (evita el bug del vacío).",
