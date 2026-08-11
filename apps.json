@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.18",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: revertidas las coordenadas de ropa a la versión 1.1.16 que se veía bien (el cambio de 1.1.17 subía la ropa demasiado).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.18/StardewPlus.ipa",
+          "size": 3592690,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.17",
           "date": "2026-08-11",
           "localizedDescription": "Paper-doll: pantalón ahora se dibuja como en el juego real (FarmerRenderer) — cubre todo el bajo cuerpo estilo overol, sin hueco de piel entre camisa y pantalón. Offsets de camisa/accesorio/pelo portados exactos del código del juego.",
