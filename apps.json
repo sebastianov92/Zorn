@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.20",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: el pantalón ahora coincide EXACTO con el editor web de referencia — short en la cadera, piernas y botas visibles abajo (no cubre toda la pierna). Verificado en masculino con el personaje real del usuario.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.20/StardewPlus.ipa",
+          "size": 3592691,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.19",
           "date": "2026-08-11",
           "localizedDescription": "Paper-doll: el pantalón ahora usa el sprite standing correcto del sheet (cubre cintura->piernas->botas, sin quedar como banda alta ni panza al aire). Camisa mantiene la altura aprobada. Corregido para ambos géneros.",
