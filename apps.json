@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.11",
+          "date": "2026-08-11",
+          "localizedDescription": "Profesiones gráficas con iconos del juego (árbol nivel 5/10).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.11/StardewPlus.ipa",
+          "size": 3223177,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.10",
           "date": "2026-08-11",
           "localizedDescription": "Selector de calidad con la paleta de la app (dorado en vez de blanco).",
