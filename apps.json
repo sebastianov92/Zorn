@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.12",
+          "date": "2026-08-11",
+          "localizedDescription": "Apariencia: personaje vivo (paper-doll) que se dibuja y actualiza en tiempo real al cambiar piel, pelo, color de pelo/ojos, género y accesorio. Se quitó el control de nivel de casa (evita el bug del vacío).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.12/StardewPlus.ipa",
+          "size": 3576069,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.11",
           "date": "2026-08-11",
           "localizedDescription": "Profesiones gráficas con iconos del juego (árbol nivel 5/10).",
