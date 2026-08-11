@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.8",
+          "date": "2026-08-11",
+          "localizedDescription": "Skills con barras/pips (toca para subir) y XP editable (máx 15000). Ya no resetea el XP de los otros skills.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.8/StardewPlus.ipa",
+          "size": 2523565,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.7",
           "date": "2026-08-11",
           "localizedDescription": "Sprite de herramienta cambia con el material; estrella de calidad en el inventario; items sin calidad (herramientas, madera, semillas…) no dejan poner calidad.",
