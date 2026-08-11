@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.17",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: pantalón ahora se dibuja como en el juego real (FarmerRenderer) — cubre todo el bajo cuerpo estilo overol, sin hueco de piel entre camisa y pantalón. Offsets de camisa/accesorio/pelo portados exactos del código del juego.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.17/StardewPlus.ipa",
+          "size": 3592828,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.16",
           "date": "2026-08-11",
           "localizedDescription": "Paper-doll: coordenadas de capas recalibradas pixel-a-pixel contra el editor web (camisa cubre el torso hasta el pantalón, sin panza al aire; offsets correctos por género masc/fem). Billetera: ahora muestra los sprites reales del juego (llave oxidada, tarjeta del club, calavera, amuleto, lupa, talismán, tinta, guía enano, llave del pueblo).",
