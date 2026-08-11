@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.16",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: coordenadas de capas recalibradas pixel-a-pixel contra el editor web (camisa cubre el torso hasta el pantalón, sin panza al aire; offsets correctos por género masc/fem). Billetera: ahora muestra los sprites reales del juego (llave oxidada, tarjeta del club, calavera, amuleto, lupa, talismán, tinta, guía enano, llave del pueblo).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.16/StardewPlus.ipa",
+          "size": 3592690,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.15",
           "date": "2026-08-11",
           "localizedDescription": "Personaje: nueva sección Billetera (llave oxidada, tarjeta del club, llave de calavera, amuleto especial, lupa, talismán oscuro, tinta mágica, guía dwarvish, llave del pueblo). Apariencia: editor de color de pantalón. Paper-doll auditado: sprites de pelo (0-72), accesorios y piel correctos en ambos géneros.",
