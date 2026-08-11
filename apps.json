@@ -23,6 +23,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.14",
+          "date": "2026-08-11",
+          "localizedDescription": "Relaciones: los corazones ahora topan en 10 para todos; solo tu cónyuge (casado en el juego) llega a 14. Antes dejaba subir a 14 a romanceables sin casarte.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.14/StardewPlus.ipa",
+          "size": 3581007,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.13",
           "date": "2026-08-11",
           "localizedDescription": "Paper-doll ahora dibuja tu ropa REAL equipada: lee shirtItem/pantsItem del save (ej. Work Shirt + Farmer Pants) y los tiñe según el save. Antes mostraba ropa genérica.",
