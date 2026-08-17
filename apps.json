@@ -23,11 +23,259 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.21",
+          "date": "2026-08-11",
+          "localizedDescription": "UI: barra superior compacta (título inline) en todas las pestañas; la búsqueda de Items se movió del bar al contenido. Contraste: encabezados de sección en color crema legible sobre el cielo, textos secundarios en café oscuro, chips/filtros/campos con la paleta de la app, y modo claro forzado (paleta tan fija) para buen contraste en claro y oscuro.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.21/StardewPlus.ipa",
+          "size": 3608496,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.20",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: el pantalón ahora coincide EXACTO con el editor web de referencia — short en la cadera, piernas y botas visibles abajo (no cubre toda la pierna). Verificado en masculino con el personaje real del usuario.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.20/StardewPlus.ipa",
+          "size": 3592691,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.19",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: el pantalón ahora usa el sprite standing correcto del sheet (cubre cintura->piernas->botas, sin quedar como banda alta ni panza al aire). Camisa mantiene la altura aprobada. Corregido para ambos géneros.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.19/StardewPlus.ipa",
+          "size": 3592384,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.18",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: revertidas las coordenadas de ropa a la versión 1.1.16 que se veía bien (el cambio de 1.1.17 subía la ropa demasiado).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.18/StardewPlus.ipa",
+          "size": 3592690,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.17",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: pantalón ahora se dibuja como en el juego real (FarmerRenderer) — cubre todo el bajo cuerpo estilo overol, sin hueco de piel entre camisa y pantalón. Offsets de camisa/accesorio/pelo portados exactos del código del juego.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.17/StardewPlus.ipa",
+          "size": 3592828,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.16",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll: coordenadas de capas recalibradas pixel-a-pixel contra el editor web (camisa cubre el torso hasta el pantalón, sin panza al aire; offsets correctos por género masc/fem). Billetera: ahora muestra los sprites reales del juego (llave oxidada, tarjeta del club, calavera, amuleto, lupa, talismán, tinta, guía enano, llave del pueblo).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.16/StardewPlus.ipa",
+          "size": 3592690,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.15",
+          "date": "2026-08-11",
+          "localizedDescription": "Personaje: nueva sección Billetera (llave oxidada, tarjeta del club, llave de calavera, amuleto especial, lupa, talismán oscuro, tinta mágica, guía dwarvish, llave del pueblo). Apariencia: editor de color de pantalón. Paper-doll auditado: sprites de pelo (0-72), accesorios y piel correctos en ambos géneros.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.15/StardewPlus.ipa",
+          "size": 3591199,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.14",
+          "date": "2026-08-11",
+          "localizedDescription": "Relaciones: los corazones ahora topan en 10 para todos; solo tu cónyuge (casado en el juego) llega a 14. Antes dejaba subir a 14 a romanceables sin casarte.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.14/StardewPlus.ipa",
+          "size": 3581007,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.13",
+          "date": "2026-08-11",
+          "localizedDescription": "Paper-doll ahora dibuja tu ropa REAL equipada: lee shirtItem/pantsItem del save (ej. Work Shirt + Farmer Pants) y los tiñe según el save. Antes mostraba ropa genérica.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.13/StardewPlus.ipa",
+          "size": 3579457,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.12",
+          "date": "2026-08-11",
+          "localizedDescription": "Apariencia: personaje vivo (paper-doll) que se dibuja y actualiza en tiempo real al cambiar piel, pelo, color de pelo/ojos, género y accesorio. Se quitó el control de nivel de casa (evita el bug del vacío).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.12/StardewPlus.ipa",
+          "size": 3576069,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.11",
+          "date": "2026-08-11",
+          "localizedDescription": "Profesiones gráficas con iconos del juego (árbol nivel 5/10).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.11/StardewPlus.ipa",
+          "size": 3223177,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.10",
+          "date": "2026-08-11",
+          "localizedDescription": "Selector de calidad con la paleta de la app (dorado en vez de blanco).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.10/StardewPlus.ipa",
+          "size": 2527986,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.9",
+          "date": "2026-08-11",
+          "localizedDescription": "Skills: pips de nivel 5/10 dorados y más altos, campo de XP con la paleta de la app y alineado a los pips.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.9/StardewPlus.ipa",
+          "size": 2527719,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.8",
+          "date": "2026-08-11",
+          "localizedDescription": "Skills con barras/pips (toca para subir) y XP editable (máx 15000). Ya no resetea el XP de los otros skills.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.8/StardewPlus.ipa",
+          "size": 2523565,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.7",
+          "date": "2026-08-11",
+          "localizedDescription": "Sprite de herramienta cambia con el material; estrella de calidad en el inventario; items sin calidad (herramientas, madera, semillas…) no dejan poner calidad.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.7/StardewPlus.ipa",
+          "size": 2509321,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.6",
+          "date": "2026-08-11",
+          "localizedDescription": "La fila entera es tocable (no solo el icono/texto) en el editor de item, biblioteca y pickers.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.6/StardewPlus.ipa",
+          "size": 2459522,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.5",
+          "date": "2026-08-11",
+          "localizedDescription": "Editar item: toca el item para cambiarlo por otro; herramientas con selector de material (Cobre/Acero/Oro/Iridio).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.5/StardewPlus.ipa",
+          "size": 2456149,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.4",
+          "date": "2026-08-10",
+          "localizedDescription": "Editar item del inventario: escribe la cantidad (además de botones rápidos), cambia calidad o quítalo.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.4/StardewPlus.ipa",
+          "size": 2440746,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.3",
+          "date": "2026-08-10",
+          "localizedDescription": "Inventario: sprites de todos los items (herramientas/armas/muebles), edita cantidad y calidad de tus items, huecos en su posición real y rellenables. Sin corromper (parser de items anidados).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.3/StardewPlus.ipa",
+          "size": 2423329,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.2",
+          "date": "2026-08-10",
+          "localizedDescription": "Inventario muestra tus items reales y los espacios de tu mochila. Relaciones con corazones (café/rojo). Community bundles colapsables.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.2/StardewPlus.ipa",
+          "size": 2421252,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.1",
+          "date": "2026-08-10",
+          "localizedDescription": "Editor con sprites: recetas muestran el sprite del item, Relaciones muestra retratos de los NPC.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.1/StardewPlus.ipa",
+          "size": 2409220,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2026-08-10",
+          "localizedDescription": "Editor de save multi-tab como el editor web: Inventario, Personaje/Skills, Stats, Apariencia, Relaciones, Crafteo, Cocina, Bundles, Farmhands.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.1.0/StardewPlus.ipa",
+          "size": 2312056,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.9",
+          "date": "2026-08-10",
+          "localizedDescription": "Importar saves desde la carpeta de la app en Archivos (En mi iPhone → Stardew Plus). Corazones con icono, no emoji.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.9/StardewPlus.ipa",
+          "size": 2260407,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.8",
+          "date": "2026-08-10",
+          "localizedDescription": "Rediseño: estética Stardew (paneles de madera, fondo cielo, fuente pixel, inventario tipo grid) en toda la app.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.8/StardewPlus.ipa",
+          "size": 2243973,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.7",
+          "date": "2026-08-10",
+          "localizedDescription": "Icono nuevo: gallina adaptativa (ámbar en claro, azul en oscuro) desde tus diseños.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.7/StardewPlus.ipa",
+          "size": 2177101,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.6",
+          "date": "2026-08-10",
+          "localizedDescription": "Nuevo: añadir objetos al inventario desde el editor (crops, minerales, recursos, comida) con cantidad y calidad, usando espacios vacíos. Anillos/armas: por spawn + equipar en el juego. Respalda tu save antes.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.6/StardewPlus.ipa",
+          "size": 2878971,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2026-08-10",
+          "localizedDescription": "Nuevo: Construcciones — da los materiales (spawn) y el oro para mejorar casa/edificios con Robin, sin corromper el save.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.5/StardewPlus.ipa",
+          "size": 2838096,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.4",
+          "date": "2026-08-10",
+          "localizedDescription": "Fix importante: 'aprender recetas' ahora usa los nombres correctos (antes corrompía el save). Recuperación: renombra los archivos _old de tu carpeta de Stardew.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.4/StardewPlus.ipa",
+          "size": 2830859,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.3",
+          "date": "2026-08-10",
+          "localizedDescription": "Confirmación 'cierra Stardew' antes de guardar (iOS no puede cerrarlo por ti) + notas de backups y estructura de carpeta del save.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.3/StardewPlus.ipa",
+          "size": 2828271,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2026-08-10",
+          "localizedDescription": "Arreglos: profesiones válidas (1 nivel-5 + 1 nivel-10 por skill, anti-crash), aviso de nivel de casa, y edición del save in-place (lee el original fresco y lo reemplaza al guardar, sin exportar).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.2/StardewPlus.ipa",
+          "size": 2823202,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2026-08-10",
+          "localizedDescription": "Editor de save completo: profesiones, amistades (corazones), nivel de casa/mina, aprender todas las recetas. Sin firmar.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.1/StardewPlus.ipa",
+          "size": 2814997,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-08-10",
-          "localizedDescription": "Publicando el primer release.",
-          "downloadURL": "https://github.com/sebastianov92/Zorn/releases",
-          "size": 0,
+          "localizedDescription": "Primera versión. Solo chat cheats, editor de save, colecciones ligadas al save, packs y listas propias. Sin firmar (SideStore firma en el device).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/stardewplus-1.0.0/StardewPlus.ipa",
+          "size": 2793202,
           "minOSVersion": "17.0"
         }
       ]
