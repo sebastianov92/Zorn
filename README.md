@@ -20,7 +20,16 @@ https://raw.githubusercontent.com/sebastianov92/Zorn/main/apps.json
 
 | App | Bundle ID | Estado |
 |-----|-----------|--------|
-| Placeholder | `com.zorn.placeholder` | ejemplo — reemplázalo |
+| Stardew Plus | `com.deziklabs.stardewplus` | publicada |
+| Narratr | `com.sebastian.narratr` | esperando su primer release |
+
+El `.ipa` de Narratr se arma con `ios/scripts/build-ipa.sh` en el repo
+[`Narratr`](https://github.com/sebastianov92/Narratr) y se publica acá:
+
+```bash
+gh release create narratr-0.2.0 ruta/al/Narratr-0.2.0.ipa \
+  --repo sebastianov92/Zorn --title "Narratr 0.2.0" --notes "Qué cambió"
+```
 
 ## Añadir una app
 

@@ -279,6 +279,27 @@
           "minOSVersion": "17.0"
         }
       ]
+    },
+    {
+      "name": "Narratr",
+      "bundleIdentifier": "com.sebastian.narratr",
+      "developerName": "Zorn",
+      "subtitle": "Tus novelas como audiolibro, con una voz por personaje.",
+      "localizedDescription": "Escuchá tus propias novelas leídas con una voz distinta para cada personaje y el texto resaltándose palabra por palabra mientras suena. Los capítulos se generan en tu Mac y llegan al iPhone por tu red: la biblioteca queda offline, con el progreso de lectura, los capítulos leídos y las series. El Taller escribe capítulos, elige el tono de cada línea y maneja la cola de generación desde el teléfono.",
+      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Zorn/main/apps/narratr/icon.png",
+      "tintColor": "1B4D3E",
+      "category": "entertainment",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.2.0",
+          "date": "2026-09-17",
+          "localizedDescription": "Todavía sin release publicado.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases",
+          "size": 0,
+          "minOSVersion": "18.0"
+        }
+      ]
     }
   ],
   "news": []
