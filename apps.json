@@ -294,9 +294,9 @@
         {
           "version": "0.2.0",
           "date": "2026-09-17",
-          "localizedDescription": "Todavía sin release publicado.",
-          "downloadURL": "https://github.com/sebastianov92/Zorn/releases",
-          "size": 0,
+          "localizedDescription": "Primer release de Narratr. Sin firmar (SideStore firma en el device).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.0/Narratr-0.2.0.ipa",
+          "size": 3404074,
           "minOSVersion": "18.0"
         }
       ]
