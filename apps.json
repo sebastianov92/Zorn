@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.1",
+          "date": "2026-09-18",
+          "localizedDescription": "El capítulo que escuchás hasta el final queda como leído, y jalar hacia abajo actualiza la lista de capítulos desde cualquier pantalla.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.1/Narratr-0.2.1.ipa",
+          "size": 3422443,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.0",
           "date": "2026-09-17",
           "localizedDescription": "Primer release de Narratr. Sin firmar (SideStore firma en el device).",
