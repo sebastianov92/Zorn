@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.2",
+          "date": "2026-09-20",
+          "localizedDescription": "- La narración dentro de un párrafo de diálogo vuelve al color del narrador: en «\"No\", dijo ella.» solo lo entrecomillado es del personaje.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.2/Narratr-0.2.2.ipa",
+          "size": 3481323,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.1",
           "date": "2026-09-18",
           "localizedDescription": "El capítulo que escuchás hasta el final queda como leído, y jalar hacia abajo actualiza la lista de capítulos desde cualquier pantalla.",
