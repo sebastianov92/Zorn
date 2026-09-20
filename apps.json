@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.5",
+          "date": "2026-09-20",
+          "localizedDescription": "- CarPlay: la palabra resaltada ya no se adelanta a la voz. El auto reproduce unas décimas después de que el teléfono manda el audio, así que el resaltado espera ese tiempo mientras haya CarPlay conectado; en el teléfono no cambia nada. El retraso se ajusta en Ajustes → CarPlay (por defecto 400 ms), porque depende del auto.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.5/Narratr-0.2.5.ipa",
+          "size": 3491827,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.4",
           "date": "2026-09-20",
           "localizedDescription": "El encabezado nunca puede frenar la lectura: si la sesión de audio lo demora, el capítulo arranca igual.",
