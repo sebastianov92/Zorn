@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.3",
+          "date": "2026-09-20",
+          "localizedDescription": "- El capítulo se anuncia con la voz del narrador, no con la del sistema: el encabezado (\"Chapter one. The Tame Crow.\") se genera junto al capítulo y viaja dentro del .cap. Los capítulos generados antes no lo traen; hay que generarlos de nuevo para que aparezca.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.3/Narratr-0.2.3.ipa",
+          "size": 3478598,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.2",
           "date": "2026-09-20",
           "localizedDescription": "- La narración dentro de un párrafo de diálogo vuelve al color del narrador: en «\"No\", dijo ella.» solo lo entrecomillado es del personaje.",
