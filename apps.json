@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.13",
+          "date": "2026-09-21",
+          "localizedDescription": "Importar un libro entero ahora acepta texto pegado: «Usar texto copiado» hace el mismo control previo que un .md, y rechaza el texto que no trae capítulos «## …».",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.13/Narratr-0.2.13.ipa",
+          "size": 3718799,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.12",
           "date": "2026-09-21",
           "localizedDescription": "- La app ahora está en español y en inglés. Se elige en Ajustes → Apariencia → Idioma (o que siga al sistema) y cambia al instante, sin reiniciar.",
