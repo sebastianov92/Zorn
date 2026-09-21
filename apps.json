@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.12",
+          "date": "2026-09-21",
+          "localizedDescription": "- La app ahora está en español y en inglés. Se elige en Ajustes → Apariencia → Idioma (o que siga al sistema) y cambia al instante, sin reiniciar.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.12/Narratr-0.2.12.ipa",
+          "size": 3715844,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.11",
           "date": "2026-09-21",
           "localizedDescription": "- La saga vuelve a mostrar su propia portada. El teléfono solo seguía las portadas de los libros agregados desde Tienda; los que llegaron por descarga, y sus sagas, se quedaban sin portada propia y la tarjeta apilaba los libros mostrando el primero.",
