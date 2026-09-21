@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.14",
+          "date": "2026-09-21",
+          "localizedDescription": "El botón «Usar texto copiado» en «Importar libro completo…», que en 0.2.13 se quedó sin poner: la lógica estaba, el botón no.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.14/Narratr-0.2.14.ipa",
+          "size": 3718671,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.13",
           "date": "2026-09-21",
           "localizedDescription": "Importar un libro entero ahora acepta texto pegado: «Usar texto copiado» hace el mismo control previo que un .md, y rechaza el texto que no trae capítulos «## …».",
