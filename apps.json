@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.7",
+          "date": "2026-09-21",
+          "localizedDescription": "- El estante ahora también es puente: si la Mac no responde, el capítulo que subas queda ahí y la Mac lo genera cuando despierte. El progreso se ve en el teléfono (etapa, mensaje y porcentaje) aunque la Mac esté en otra red, y el capítulo aparece en Tienda al terminar.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.7/Narratr-0.2.7.ipa",
+          "size": 3569594,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.6",
           "date": "2026-09-21",
           "localizedDescription": "- Estante: Tienda ahora puede bajar capítulos aunque la Mac esté apagada o fuera de la red. La Mac sube cada capítulo que genera a un servicio propio (tu VPS) y el iPhone lo lee de ahí; en pantalla dice cuándo está usando el estante. Se configura en Ajustes → Servidor → Estante, o escaneando el QR que muestra la Mac.",
