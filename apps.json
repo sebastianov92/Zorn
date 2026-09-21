@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.9",
+          "date": "2026-09-21",
+          "localizedDescription": "- La Mac y el estante se configuran por separado, cada uno con su sección y su estado. Arriba, en Tienda y Taller, una línea dice Mac y Estante en verde o rojo, y cuál se está usando; tocándola vuelve a preguntar.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.9/Narratr-0.2.9.ipa",
+          "size": 3659466,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.8",
           "date": "2026-09-21",
           "localizedDescription": "- Ya no salta la alerta de error cuando la Mac está apagada: Tienda y Taller pasan al estante a propósito y la pantalla ya lo dice. El error solo aparece si el estante tampoco responde.",
