@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.11",
+          "date": "2026-09-21",
+          "localizedDescription": "- La saga vuelve a mostrar su propia portada. El teléfono solo seguía las portadas de los libros agregados desde Tienda; los que llegaron por descarga, y sus sagas, se quedaban sin portada propia y la tarjeta apilaba los libros mostrando el primero.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.11/Narratr-0.2.11.ipa",
+          "size": 3667130,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.10",
           "date": "2026-09-21",
           "localizedDescription": "- Las portadas que cambiás en la Mac ahora llegan al teléfono. Antes solo se preguntaba si el libro tenía portada: como tenía, nunca se volvía a bajar, y la de la saga Hollowmark seguía siendo la vieja.",
