@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.6",
+          "date": "2026-09-21",
+          "localizedDescription": "- Estante: Tienda ahora puede bajar capítulos aunque la Mac esté apagada o fuera de la red. La Mac sube cada capítulo que genera a un servicio propio (tu VPS) y el iPhone lo lee de ahí; en pantalla dice cuándo está usando el estante. Se configura en Ajustes → Servidor → Estante, o escaneando el QR que muestra la Mac.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.6/Narratr-0.2.6.ipa",
+          "size": 3528845,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.5",
           "date": "2026-09-20",
           "localizedDescription": "- CarPlay: la palabra resaltada ya no se adelanta a la voz. El auto reproduce unas décimas después de que el teléfono manda el audio, así que el resaltado espera ese tiempo mientras haya CarPlay conectado; en el teléfono no cambia nada. El retraso se ajusta en Ajustes → CarPlay (por defecto 400 ms), porque depende del auto.",
