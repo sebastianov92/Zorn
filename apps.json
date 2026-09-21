@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.8",
+          "date": "2026-09-21",
+          "localizedDescription": "- Ya no salta la alerta de error cuando la Mac está apagada: Tienda y Taller pasan al estante a propósito y la pantalla ya lo dice. El error solo aparece si el estante tampoco responde.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.8/Narratr-0.2.8.ipa",
+          "size": 3570949,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.7",
           "date": "2026-09-21",
           "localizedDescription": "- El estante ahora también es puente: si la Mac no responde, el capítulo que subas queda ahí y la Mac lo genera cuando despierte. El progreso se ve en el teléfono (etapa, mensaje y porcentaje) aunque la Mac esté en otra red, y el capítulo aparece en Tienda al terminar.",
