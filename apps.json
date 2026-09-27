@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.20",
+          "date": "2026-09-27",
+          "localizedDescription": "Arreglo: tras insertar capítulos en medio de un libro, los capítulos nuevos que caían bajo un número con archivo viejo salían con el icono de actualizar; ahora salen como descargar, con el título del capítulo que se va a bajar. (0.2.19: un capítulo cuenta como el mismo por su sello de generación, no por la fecha del archivo.)",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.20/Narratr-0.2.20.ipa",
+          "size": 3873037,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.19",
           "date": "2026-09-27",
           "localizedDescription": "Arreglo: al actualizar un capítulo (o al volver a subir todo al estante) no aparecen todos como desactualizados. Un capítulo cuenta como el mismo por su sello de generación, no por la fecha del archivo en la Mac o en el estante. Requiere la Mac y el estante actualizados (ya lo están).",
