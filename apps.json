@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.19",
+          "date": "2026-09-27",
+          "localizedDescription": "Arreglo: al actualizar un capítulo (o al volver a subir todo al estante) no aparecen todos como desactualizados. Un capítulo cuenta como el mismo por su sello de generación, no por la fecha del archivo en la Mac o en el estante. Requiere la Mac y el estante actualizados (ya lo están).",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.19/Narratr-0.2.19.ipa",
+          "size": 3871367,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.18",
           "date": "2026-09-27",
           "localizedDescription": "Posición compartida por el estante y pantalla de dispositivos (ver 0.2.17), más un arreglo: un aviso «Seguir desde donde ibas» que aceptaste no vuelve a aparecer al reabrir el capítulo.",
