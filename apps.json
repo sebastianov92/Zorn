@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.17",
+          "date": "2026-09-27",
+          "localizedDescription": "La posición de lectura se comparte por el estante: al pausar queda guardada, y al abrir un capítulo el iPhone avisa si otro dispositivo (la Mac o el Kindle) iba más adelante — «Seguir desde donde ibas», nunca salta solo. Nueva pantalla Ajustes → Servidor → Kindle y otros dispositivos: emparejar un Kindle con un código de seis dígitos, ver los dispositivos y revocar cualquiera.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.17/Narratr-0.2.17.ipa",
+          "size": 3865392,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.16",
           "date": "2026-09-26",
           "localizedDescription": "Lee capítulos .nrtc además de .cap (mismo formato, nuevo nombre). Necesaria antes de que el estante empiece a servir .nrtc.",
