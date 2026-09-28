@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.23",
+          "date": "2026-09-28",
+          "localizedDescription": "Más restos de español en modo inglés: textos que iban junto a una cadena en un ternario (pie de «La Mac» en Ajustes, «Narrador», «Elegir audio…», «Descargando…», etc.). El pie de «La Mac» ahora lista las direcciones que la Mac dejó en el estante.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.23/Narratr-0.2.23.ipa",
+          "size": 3905545,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.22",
           "date": "2026-09-28",
           "localizedDescription": "Últimos restos de español en modo inglés: encabezado «Sueltos» de la Tienda (Standalone), etiquetas de accesibilidad de los botones de saltar y títulos de las notificaciones.",
