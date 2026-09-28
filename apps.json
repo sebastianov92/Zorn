@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.22",
+          "date": "2026-09-28",
+          "localizedDescription": "Últimos restos de español en modo inglés: encabezado «Sueltos» de la Tienda (Standalone), etiquetas de accesibilidad de los botones de saltar y títulos de las notificaciones.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.22/Narratr-0.2.22.ipa",
+          "size": 3904337,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.21",
           "date": "2026-09-28",
           "localizedDescription": "Libros EPUB 3: en «Subir un .md o .epub» (Estudio) hay una sección «Libro EPUB» para mandar un EPUB con audio (read-along) a la Mac, con barra de progreso; queda como libro ya generado y se baja desde Estudio.",
