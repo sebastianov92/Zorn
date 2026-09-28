@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.21",
+          "date": "2026-09-28",
+          "localizedDescription": "Libros EPUB 3: en «Subir un .md o .epub» (Estudio) hay una sección «Libro EPUB» para mandar un EPUB con audio (read-along) a la Mac, con barra de progreso; queda como libro ya generado y se baja desde Estudio.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.21/Narratr-0.2.21.ipa",
+          "size": 3904123,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.20",
           "date": "2026-09-27",
           "localizedDescription": "Arreglo: tras insertar capítulos en medio de un libro, los capítulos nuevos que caían bajo un número con archivo viejo salían con el icono de actualizar; ahora salen como descargar, con el título del capítulo que se va a bajar. (0.2.19: un capítulo cuenta como el mismo por su sello de generación, no por la fecha del archivo.)",
