@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.25",
+          "date": "2026-09-29",
+          "localizedDescription": "Los EPUB se importan desde la Mac: se quitó la sección «Libro EPUB» de «Subir un .md». Los libros EPUB alineados palabra por palabra aparecen como actualización en cada capítulo.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.25/Narratr-0.2.25.ipa",
+          "size": 3924996,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.24",
           "date": "2026-09-28",
           "localizedDescription": "Servidor: «Encontrar la Mac sola» (encendido). El iPhone lee del estante la IP de la Mac en la red donde está y su Tailscale, prueba todas a la vez y usa la mejor: red local primero, Tailscale si no, el estante si ninguna. Al cambiar de Wi-Fi busca otra vez. La pantalla de Servidor muestra cada dirección, cuál contesta y cuándo avisó la Mac, con un botón «Buscar la Mac ahora».",
