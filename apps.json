@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.26",
+          "date": "2026-10-11",
+          "localizedDescription": "Lo que se borra en la Mac (capítulos o libros) desaparece también del iPhone: de Tienda, de la biblioteca y de lo descargado. El botón Actualizar de Biblioteca hace la actualización completa. Arreglado «1 chapters».",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.26/Narratr-0.2.26.ipa",
+          "size": 3940536,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.25",
           "date": "2026-09-29",
           "localizedDescription": "Los EPUB se importan desde la Mac: se quitó la sección «Libro EPUB» de «Subir un .md». Los libros EPUB alineados palabra por palabra aparecen como actualización en cada capítulo.",
