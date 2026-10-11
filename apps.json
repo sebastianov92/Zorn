@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.27",
+          "date": "2026-10-11",
+          "localizedDescription": "Tienda se actualiza sola cuando la Mac termina un capítulo y al volver a la app: un capítulo recién regenerado y descargado ya no aparece como desactualizado.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.27/Narratr-0.2.27.ipa",
+          "size": 3942044,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.26",
           "date": "2026-10-11",
           "localizedDescription": "Lo que se borra en la Mac (capítulos o libros) desaparece también del iPhone: de Tienda, de la biblioteca y de lo descargado. El botón Actualizar de Biblioteca hace la actualización completa. Arreglado «1 chapters».",
