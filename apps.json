@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.29",
+          "date": "2026-10-12",
+          "localizedDescription": "Los botones anterior/siguiente del volante (y de los auriculares) pasan de capítulo; en el auto, «Reproduciendo» muestra «Capítulo N · Título» y el libro.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.29/Narratr-0.2.29.ipa",
+          "size": 3946820,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.28",
           "date": "2026-10-12",
           "localizedDescription": "Los trabajos de la Mac que generan lecturas para elegir de un párrafo ya no se intentan bajar como capítulos; en la cola aparecen como «lecturas para elegir».",
