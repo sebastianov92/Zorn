@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.28",
+          "date": "2026-10-12",
+          "localizedDescription": "Los trabajos de la Mac que generan lecturas para elegir de un párrafo ya no se intentan bajar como capítulos; en la cola aparecen como «lecturas para elegir».",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.28/Narratr-0.2.28.ipa",
+          "size": 3941599,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.27",
           "date": "2026-10-11",
           "localizedDescription": "Tienda se actualiza sola cuando la Mac termina un capítulo y al volver a la app: un capítulo recién regenerado y descargado ya no aparece como desactualizado.",
