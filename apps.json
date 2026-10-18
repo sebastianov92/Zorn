@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.30",
+          "date": "2026-10-18",
+          "localizedDescription": "Cada capítulo muestra su versión (cuándo lo generó la Mac, igual que en la Mac), si está al día con la Mac (tilde azul), si hay una más nueva (naranja) o si no se pudo comprobar (gris); arriba del libro, cuándo se comprobó. Un capítulo que se actualizó solo dice «Actualizado …» en azul hasta que lo escuches.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.30/Narratr-0.2.30.ipa",
+          "size": 7171552,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.29",
           "date": "2026-10-12",
           "localizedDescription": "Los botones anterior/siguiente del volante (y de los auriculares) pasan de capítulo; en el auto, «Reproduciendo» muestra «Capítulo N · Título» y el libro.",
