@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.33",
+          "date": "2026-10-19",
+          "localizedDescription": "Taller: un capítulo nuevo con un número que ya existe entra en ese lugar y los siguientes se corren uno (conservan su audio), en vez de reemplazar al que estaba. Editar un capítulo y ponerle un número ocupado ya no se permite.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.33/Narratr-0.2.33.ipa",
+          "size": 7190365,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.32",
           "date": "2026-10-19",
           "localizedDescription": "En la Tienda y en la serie del Taller, los especiales (nº 0) van al final y con estrella en vez de «0». Al emparejar con el QR, la Tienda encuentra la Mac en el acto.",
