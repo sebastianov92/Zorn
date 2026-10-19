@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.32",
+          "date": "2026-10-19",
+          "localizedDescription": "En la Tienda y en la serie del Taller, los especiales (nº 0) van al final y con estrella en vez de «0». Al emparejar con el QR, la Tienda encuentra la Mac en el acto.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.32/Narratr-0.2.32.ipa",
+          "size": 7186527,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.31",
           "date": "2026-10-18",
           "localizedDescription": "Libros especiales en una saga: el nº 0 se muestra como «Especial» (extras, historias aparte), va al final de la serie y el editor ya no lo sube a 1. Si elegís un idioma distinto al del iPhone, ya no queda media app en el otro idioma.",
