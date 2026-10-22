@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.34",
+          "date": "2026-10-22",
+          "localizedDescription": "Generar en la nube desde el iPhone: en el Taller (pendientes y cada capítulo) y en la ficha del libro. La cola muestra los capítulos de la nube con su icono y un panel con la GPU, el precio por hora, el gasto de la sesión y Apagar ahora. Necesita la Mac con la clave de RunPod puesta; la Mac sigue manejando el pod.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.34/Narratr-0.2.34.ipa",
+          "size": 7238737,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.33",
           "date": "2026-10-19",
           "localizedDescription": "Taller: un capítulo nuevo con un número que ya existe entra en ese lugar y los siguientes se corren uno (conservan su audio), en vez de reemplazar al que estaba. Editar un capítulo y ponerle un número ocupado ya no se permite.",
