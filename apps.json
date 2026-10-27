@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.35",
+          "date": "2026-10-27",
+          "localizedDescription": "Seleccionar varios capítulos en la ficha del libro: marcarlos leídos o no leídos de una vez, o borrar sus descargas del iPhone (con confirmación). Mientras elegís, la barra de acciones ocupa el lugar de las pestañas.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.35/Narratr-0.2.35.ipa",
+          "size": 7272509,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.34",
           "date": "2026-10-22",
           "localizedDescription": "Generar en la nube desde el iPhone: en el Taller (pendientes y cada capítulo) y en la ficha del libro. La cola muestra los capítulos de la nube con su icono y un panel con la GPU, el precio por hora, el gasto de la sesión y Apagar ahora. Necesita la Mac con la clave de RunPod puesta; la Mac sigue manejando el pod.",
