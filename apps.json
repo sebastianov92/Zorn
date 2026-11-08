@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.36",
+          "date": "2026-11-08",
+          "localizedDescription": "El capítulo sigue sonando al salir de él. Arriba de las pestañas aparece un mini reproductor (portada, pausa, +30 s): tocarlo abre el capítulo y mantenerlo pulsado lo detiene. La tarjeta «Continuar» de Inicio tiene su propio botón de reproducir/pausa. El paso al capítulo siguiente funciona desde cualquier pantalla. Taller: las voces se separan por idioma y cada libro ofrece solo las de su idioma.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.36/Narratr-0.2.36.ipa",
+          "size": 7325077,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.35",
           "date": "2026-10-27",
           "localizedDescription": "Seleccionar varios capítulos en la ficha del libro: marcarlos leídos o no leídos de una vez, o borrar sus descargas del iPhone (con confirmación). Mientras elegís, la barra de acciones ocupa el lugar de las pestañas.",
