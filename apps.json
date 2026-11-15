@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.37",
+          "date": "2026-11-15",
+          "localizedDescription": "Mantener pulsado un libro (en la saga o en la Biblioteca) abre un menú: cuántos capítulos llevas leídos, marcar todo el libro como leído o no leído, y borrarlo del iPhone mostrando cuánto espacio liberas (pide confirmación; el progreso se conserva y se puede volver a descargar). Taller: las voces se filtran por género y edad (niño/a, adulto/a, mayor) y avisan cuando la voz no coincide con la edad ",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.37/Narratr-0.2.37.ipa",
+          "size": 7355029,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.36",
           "date": "2026-11-08",
           "localizedDescription": "El capítulo sigue sonando al salir de él. Arriba de las pestañas aparece un mini reproductor (portada, pausa, +30 s): tocarlo abre el capítulo y mantenerlo pulsado lo detiene. La tarjeta «Continuar» de Inicio tiene su propio botón de reproducir/pausa. El paso al capítulo siguiente funciona desde cualquier pantalla. Taller: las voces se separan por idioma y cada libro ofrece solo las de su idioma.",
