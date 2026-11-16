@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.39",
+          "date": "2026-11-16",
+          "localizedDescription": "Taller → Nuevo libro tiene dos opciones: Manual o Desde un .md. Con un libro entero en un .md, el encabezado da el título, la saga y el número, el autor, el idioma, la sinopsis y los personajes (con género y edad), y cada «## Chapter N — Título» es un capítulo; antes de crear muestra todo y avisa si el libro ya está en la biblioteca. El «## Registro de escritura» del final no es parte del libro: n",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.39/Narratr-0.2.39.ipa",
+          "size": 7416258,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.38",
           "date": "2026-11-15",
           "localizedDescription": "Mantener pulsado un libro tiene ahora «Eliminar de la biblioteca»: borra sus capítulos del iPhone y saca el libro de la Biblioteca (pide confirmación con cuántos capítulos y cuánto espacio; se puede volver a agregar desde Tienda y el progreso se conserva). «Borrar del iPhone» sigue igual. Arreglos: al eliminar el último libro de una saga se vuelve a la Biblioteca; el conteo de leídos funciona sin ",
