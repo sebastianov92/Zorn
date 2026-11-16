@@ -292,6 +292,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.40",
+          "date": "2026-11-16",
+          "localizedDescription": "CarPlay: al desconectar el auto (apagarlo, sacar el cable o cortarse el inalámbrico), el audio vuelve al inicio de la palabra resaltada y se pausa, en vez de seguir desde donde iba el teléfono y saltarse lo que el auto todavía no había sonado. Elegir el iPhone como salida estando en el auto también vuelve a la palabra resaltada, pero sigue sonando.",
+          "downloadURL": "https://github.com/sebastianov92/Zorn/releases/download/narratr-0.2.40/Narratr-0.2.40.ipa",
+          "size": 7416260,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2.39",
           "date": "2026-11-16",
           "localizedDescription": "Taller → Nuevo libro tiene dos opciones: Manual o Desde un .md. Con un libro entero en un .md, el encabezado da el título, la saga y el número, el autor, el idioma, la sinopsis y los personajes (con género y edad), y cada «## Chapter N — Título» es un capítulo; antes de crear muestra todo y avisa si el libro ya está en la biblioteca. El «## Registro de escritura» del final no es parte del libro: n",
